@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Mobile application developer",
       icon: creator,
     },
   ];
