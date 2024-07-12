@@ -23,3 +23,5 @@ function HOC (){
 
 
 export default SectionWrapper
+
+

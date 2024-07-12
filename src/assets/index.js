@@ -21,11 +21,12 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import supabse from "./tech/supabase-seeklogo.svg"
+import java from "./tech/java.png"
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import travello from "./projectlogo/travello.png";
+import EcoThrive from "./projectlogo/ecotrivelogo.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -37,16 +38,20 @@ export {
   backend,
   creator,
   mobile,
+  travello,
   web,
   github,
   menu,
   close,
   css,
+  EcoThrive,
   docker,
   figma,
   git,
   html,
   javascript,
+  supabse,
+  java,
   mongodb,
   nodejs,
   reactjs,
@@ -54,10 +59,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,
